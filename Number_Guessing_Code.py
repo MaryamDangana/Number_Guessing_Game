@@ -40,6 +40,8 @@ while x == True:
         print(f"Too low.\nGuess again\nYou have {lives} attempts remaining to guess the number")
 
 if lives == 0:
-    print("Game Over, you are out of lives")
-print("Computer guess is", computer_num)
+    print("oops, you are out of lives\n     GAME OVER")
+    
+
+print("Computer guess was", computer_num)
 
