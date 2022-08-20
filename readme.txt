@@ -1,0 +1,1 @@
+The code is written to give emphasis on local/global scope concept.
